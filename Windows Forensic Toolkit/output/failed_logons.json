@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "4625",
+        "time": "2026-08-19T09:05:11.1915576Z",
+        "username": "-",
+        "domain": "-",
+        "logon_type": "2",
+        "source_ip": "127.0.0.1",
+        "source_port": "0",
+        "process": "C:\\Windows\\System32\\svchost.exe",
+        "failure_reason": "%%2304",
+        "status": "0xc000006d"
+    },
+    {
+        "event_id": "4625",
+        "time": "2026-08-19T09:05:09.7591777Z",
+        "username": "-",
+        "domain": "-",
+        "logon_type": "2",
+        "source_ip": "127.0.0.1",
+        "source_port": "0",
+        "process": "C:\\Windows\\System32\\svchost.exe",
+        "failure_reason": "%%2304",
+        "status": "0xc000006d"
+    }
+]

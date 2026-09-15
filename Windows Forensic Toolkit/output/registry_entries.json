@@ -1,0 +1,92 @@
+[
+    {
+        "name": "OneDrive",
+        "command": "\"C:\\Users\\favou\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "Opera GX Stable",
+        "command": "\"C:\\Users\\favou\\AppData\\Local\\Programs\\Opera GX\\opera.exe\" --autostart",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "Steam",
+        "command": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" -silent",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "LGHUB",
+        "command": "\"C:\\Program Files\\LGHUB\\system_tray\\lghub_system_tray.exe\" --minimized",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "PulsarFusion",
+        "command": "C:\\Program Files (x86)\\PulsarFusion\\PulsarFusion.exe --AutoUp",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "EpicGamesLauncher",
+        "command": "\"C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe\" -silent -launchcontext=boot",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "ProtonVPN",
+        "command": "C:\\Program Files\\Proton\\VPN\\ProtonVPN.Launcher.exe",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "Proton Drive",
+        "command": "\"C:\\Program Files\\Proton\\Drive\\ProtonDrive.exe\" -quiet",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "Overwolf",
+        "command": "C:\\Program Files (x86)\\Overwolf\\OverwolfLauncher.exe -overwolfsilent",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "Discord",
+        "command": "\"C:\\Users\\favou\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "RiotClient",
+        "command": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe --launch-background-mode",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "utweb",
+        "command": "\"C:\\Users\\favou\\AppData\\Roaming\\uTorrent Web\\utweb.exe\" /MINIMIZED",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "RobloxPlayerBeta",
+        "command": "\"C:\\Users\\favou\\AppData\\Local\\Roblox\\Versions\\version-145f189a6a974303\\RobloxPlayerBeta.exe\" --launch-to-tray",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "EADM",
+        "command": "\"C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EALauncher.exe\" -silentOs",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    },
+    {
+        "name": "MicrosoftEdgeAutoLaunch_EF231D0B5B4B100451AC47F608940751",
+        "command": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "value~_type": 1
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Suspicious Registry Persistence",
+        "severity": "Medium",
+        "name": "utweb",
+        "command": "\"C:\\Users\\favou\\AppData\\Roaming\\uTorrent Web\\utweb.exe\" /MINIMIZED",
+        "registry_path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "reasons": [
+            "Executable launched from suspicious location: \\AppData\\Roaming\\"
+        ]
+    }
+]
